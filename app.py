@@ -16,7 +16,7 @@ import math
 OLLAMA_CHAT_URL = "http://localhost:11434/api/chat"
 OLLAMA_EMBED_URL = "http://localhost:11434/api/embed"
 
-CHAT_MODEL = "gemma3:4b"
+CHAT_MODEL = "gemma3:1b"
 EMBEDDING_MODEL = "nomic-embed-text"
 
 CHUNK_SIZE = 800
